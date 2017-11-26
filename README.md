@@ -1,3 +1,3 @@
 # HackerrRank
-Solved Pratise Questions
+Solved Pratise Questions.
 Basic apporach using simple algorithms!
