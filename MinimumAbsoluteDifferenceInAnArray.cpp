@@ -1,6 +1,7 @@
 /* Kaustubh Sharma
 Approach - Greedy Appraoch , Sort the array and then interate from begining to end of the array having the absolute difference 
            and updating the minimum absolute difference at each iteration .
+           Time Complexity = O(nlogn)
 */
 #include <bits/stdc++.h>
 
