@@ -5,7 +5,8 @@ Approach - Normal Implementation
 
 using namespace std;
 
-cout<<"hello";
+cout<<"hello testimg";
+cout<<"testingstsasd"
 vector < int > getRecord(vector < int > v){
     vector<int>result(2);
     result[1]=result[0]=0;
