@@ -5,6 +5,7 @@ Approach - Normal Implementation
 
 using namespace std;
 
+cout<<"hello";
 vector < int > getRecord(vector < int > v){
     vector<int>result(2);
     result[1]=result[0]=0;
